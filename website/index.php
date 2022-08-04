@@ -14,8 +14,8 @@
 
         <!-- CSS Files
     ================================================== -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
+        <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
         <link href="css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
         <link href="css/animate.css" rel="stylesheet" type="text/css" />
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />

@@ -1,0 +1,7 @@
+{
+    "functions" : {
+      "website/*.php" : {
+        "runtime" : " vercel-php@0.5.1 "
+     }
+   }
+ }
