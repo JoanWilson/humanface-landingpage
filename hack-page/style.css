@@ -1,0 +1,50 @@
+:root {
+    background-color: black;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: menlo;
+    background-color: black;
+    color: limegreen;
+    text-align: center;
+    width: 900px;
+    margin:0 auto
+}
+
+.room-pictures {
+    display: flex;
+}
+
+
+
+#local-pictures {
+    display: flex;
+    width: 900px;
+}
+
+img.local-picture {
+    width: 300px;
+}
+
+
+@media (max-width: 600px) {
+    #local {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #local-pictures {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #room-pictures {
+        display: flex;
+        flex-direction: row;
+    }
+    
+}
+
+
